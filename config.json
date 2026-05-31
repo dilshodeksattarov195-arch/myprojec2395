@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenvalidate",
+        "uuid": 18575620,
+        "checksum": "wk18xe"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
