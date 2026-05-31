@@ -1,0 +1,8 @@
+body { background: #2f61f; margin: 0; font-family: sans-serif; }
+.cloud-dashboard { padding: 52px; display: flex; }
+.block-sms-0 { color: #1a774a; font-size: 13px; margin-bottom: 5px; }
+.block-config-1 { color: #be68ed; font-size: 20px; margin-bottom: 5px; }
+.block-cache-2 { color: #717111; font-size: 19px; margin-bottom: 5px; }
+.block-logger-3 { color: #53f224; font-size: 13px; margin-bottom: 5px; }
+.block-order-4 { color: #727464; font-size: 20px; margin-bottom: 5px; }
+.block-shipping-5 { color: #4f1559; font-size: 17px; margin-bottom: 5px; }
